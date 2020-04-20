@@ -18,6 +18,6 @@ https://github.com/Line-us/Line-us-Programming
 https://github.com/Line-us/Line-us-Programming/blob/master/Documentation/GCodeSpec.md
 
 _Development:_
-Any help gratefully recieved and of course props to 
+Any help gratefully recieved and of course props to https://github.com/ixd-hof for doing all the work and the tirelless https://github.com/robertpoll for keeping line-us working.
 
 This is using gitflow so if you do contribute please install: https://github.com/nvie/gitflow/wiki/Installation and read up: https://github.com/nvie/gitflow/wiki
