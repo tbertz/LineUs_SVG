@@ -1,20 +1,18 @@
 # LineUs_SVG
-Simple SVG plotter for the LineUs drawbot made with Processing 2.2.1 and Geomerative Plugin.
-
-![Image of the application](https://github.com/ixd-hof/LineUs_SVG/raw/master/LineUs_SVG.png)
+Simple SVG plotter for the LineUs drawbot originally made with Processing 2.2.1 and Geomerative Plugin now updated for Processing 3 and forked to take account of additional work to basic UI elements using Interfacia http://interfascia.berg.industries/ and quite a bit of bug fixing.
 
 ## Usage:
-You can simply open the code in [Processing 2.2.1](https://processing.org/download/), install the [Geomerative](http://www.ricardmarxer.com/geomerative/) plugin (via menu) and run the sketch. Since this plotter is dependent on the SVG functions of Geomerative (flattening and polygonizer) we are stuck with Processing version 2.2.1.
+You can simply open the code in [Processing 3](https://processing.org/download/), install the Geomerative plugin (via Tools > Add Tool) and run the sketch.
 
-Alternatively you can run the applications for Mac OS and Windows.
+Once tested and stable a build application will be made available.
 
-_Application interface / keys / shortcuts:_
-* drawbot address: a (usually lineus.local in wifi and 192.168.4.1 in setup mode)
+_Key Shortcuts:_
 * open SVG: o
 * zoom: +/-
 * move: arrow keys <>
 * rotate: r
-* show lines: l
-* connect Line-Us: c
-* plot drawing: p
-* hide menu: h
+
+_Helpful references:_
+https://github.com/Line-us/Line-us-Programming/blob/master/Documentation/LineUsDrawingArea.pdf
+https://github.com/Line-us/Line-us-Programming
+https://github.com/Line-us/Line-us-Programming/blob/master/Documentation/GCodeSpec.md

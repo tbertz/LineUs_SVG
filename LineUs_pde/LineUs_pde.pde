@@ -1,19 +1,22 @@
+//An example class to show how to use the Line-us API
+
 class LineUs {
   
   Client lineUs;
   Boolean connected = false;
   String helloMessage;
-  String statusMessage;
+  String address = "192.168.0.4";
   
   LineUs(PApplet papp, String address) {
-      lineUs = new Client(papp, address, 1337);
-      if (lineUs.active()) {
-        connected = true;
-        helloMessage = readResponse();
-        statusMessage = "Connected";
-      } else {
-        statusMessage = "Unable to connect"; 
-      }
+    try {
+    lineUs = new Client(papp, address, 1337);
+    
+    if (lineUs.available() > 0) {
+    connected = true;
+    helloMessage = readResponse();
+    }
+    }
+    catch (Exception e) {}
   }
   
   String getHelloString() {
