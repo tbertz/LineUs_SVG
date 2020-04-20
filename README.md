@@ -12,12 +12,12 @@ _Key Shortcuts:_
 * move: arrow keys <>
 * rotate: r
 
-_Helpful references:_
-https://github.com/Line-us/Line-us-Programming/blob/master/Documentation/LineUsDrawingArea.pdf
-https://github.com/Line-us/Line-us-Programming
-https://github.com/Line-us/Line-us-Programming/blob/master/Documentation/GCodeSpec.md
+## Helpful references:
+* https://github.com/Line-us/Line-us-Programming/blob/master/Documentation/LineUsDrawingArea.pdf
+* https://github.com/Line-us/Line-us-Programming
+* https://github.com/Line-us/Line-us-Programming/blob/master/Documentation/GCodeSpec.md
 
-_Development:_
-Any help gratefully recieved and of course props to https://github.com/ixd-hof for doing all the work and the tirelless https://github.com/robertpoll for keeping line-us working.
+## Development:
+Any help gratefully recieved and of course props to https://github.com/ixd-hof for doing all the work and the tireless https://github.com/robertpoll for keeping line-us working.
 
 This is using gitflow so if you do contribute please install: https://github.com/nvie/gitflow/wiki/Installation and read up: https://github.com/nvie/gitflow/wiki
