@@ -16,3 +16,8 @@ _Helpful references:_
 https://github.com/Line-us/Line-us-Programming/blob/master/Documentation/LineUsDrawingArea.pdf
 https://github.com/Line-us/Line-us-Programming
 https://github.com/Line-us/Line-us-Programming/blob/master/Documentation/GCodeSpec.md
+
+_Development:_
+Any help gratefully recieved and of course props to 
+
+This is using gitflow so if you do contribute please install: https://github.com/nvie/gitflow/wiki/Installation and read up: https://github.com/nvie/gitflow/wiki
